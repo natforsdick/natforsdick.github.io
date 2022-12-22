@@ -5,14 +5,14 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Natalie Forsdick, PhD
-banner_subtitle: 
+# banner_subtitle: 
 background_image: /images/Catlins-sunrise.jpeg
 
 # all of the following variables are optional -----------------
- page_url: # only include this variable if you aren't building the page to your primary domain 
+# page_url: # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
-favicon: /assets/ico/favicon.ico
+# favicon: /assets/ico/favicon.ico
 
 # social media
 twitter_username: NatForsdick 
