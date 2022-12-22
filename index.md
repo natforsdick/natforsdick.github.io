@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Natalie Forsdick, PhD
 # banner_subtitle: 
-background_image: /images/Catlins-sunrise.jpeg
+background_image: /images/Catlins-sunrise.jpg
 
 # all of the following variables are optional -----------------
 # page_url: # only include this variable if you aren't building the page to your primary domain 
