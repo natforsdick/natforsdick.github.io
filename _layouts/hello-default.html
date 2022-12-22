@@ -45,6 +45,7 @@
         <link rel="stylesheet" href="/css/style.css" />
         <link rel="stylesheet" href="/css/style-wide.css" />
         <link rel="stylesheet" href="/css/style-noscript.css" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
     </noscript>
     <meta name="viewport" content="width=device-width">
 
@@ -57,7 +58,20 @@
     <!-- HEADER -->		
     <header id="header">
       <h1 id="logo" style="text-transform:lowercase">
-        <a href="/">hello</a></h1>
+	     <ul class="icons">
+            {% if page.twitter_username %}
+            <li><a href="https://twitter.com/{{ page.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+            {% endif %}
+            {% if page.googlescholar %}
+            <li><a href="https://scholar.google.co.nz/citations?{{ page.googlescholar }}" class="icon circle ai ai-google-scholar"><span class="label"></span></a></li>
+            {% endif %}
+            {% if page.github_username %}
+            <li><a href="https://github.com/{{ page.github_username }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
+            {% endif %}
+            {% if page.researchgate %}
+            <li><a href="https://researchgate.net/profile/{{ page.researchgate }}" class="icon circle ai ai-researchgate"><span class="label"></span></a></li>
+            {% endif %}
+        </ul>
       <nav id="nav">
         <ul>
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
@@ -113,7 +127,7 @@
                 {% endif %}      
               </section>    
 
-            <!-- section: work-->
+            <!-- section: research-->
             {% if page.portfolio %}
             <section class="wrapper style3 container special" id="{{ page.portfolio }}">
 					      <header class="special">
@@ -178,14 +192,14 @@
             {% if page.twitter_username %}
             <li><a href="https://twitter.com/{{ page.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
             {% endif %}
-            {% if page.facebook_username %}
-            <li><a href="https://www.facebook.com/{{ page.facebook_username }}" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+            {% if page.googlescholar %}
+            <li><a href="https://scholar.google.co.nz/citations?{{ page.googlescholar }}" class="icon circle ai ai-google-scholar"><span class="label"></span></a></li>
             {% endif %}
             {% if page.github_username %}
             <li><a href="https://github.com/{{ page.github_username }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
             {% endif %}
-            {% if page.linkedin %}
-            <li><a href="https://linkedin.com/in/{{ page.linkedin }}" class="icon circle fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+            {% if page.researchgate %}
+            <li><a href="https://researchgate.net/profile/{{ page.researchgate }}" class="icon circle ai ai-researchgate"><span class="label"></span></a></li>
             {% endif %}
         </ul>
 
