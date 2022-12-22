@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Natalie Forsdick, PhD
+author: Natalie Forsdick
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  Postdoctoral research fellow
 baseurl: ""
 
 plugins:
