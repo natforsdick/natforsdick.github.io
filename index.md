@@ -52,5 +52,5 @@ I am now a Postdoctoral Research Fellow at [Manaaki Whenua -- Landcare Research]
 Along with research, I am interested in building communities, and this has led to my involvement in various societies. I take great pride in representing [Birds New Zealand](https://www.birdsnz.org.nz) as Vice-President, and in my role as Secretary for the [Society for Conservation Biology Oceania region](https://scboceania.org). I also co-lead Manaaki Whenua's Early Career Group, and informally co-chair the Genomics Aotearoa HQG Postdoc Group. In my free time, you can often find me out and about with my trusty binoculars or bird-watching scope.
 
 <div style="text-align: center;">
-<img width="200" src="../images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with various coloured flowers.">
+<img width="200" src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with various coloured flowers.">
 </div>
