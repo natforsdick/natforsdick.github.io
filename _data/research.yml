@@ -5,12 +5,10 @@ research:
   - category: Blogs and other popular media
     blogs:
       - blog: blogs.html
-#        image: /images/Tutaepatu-lagoon_evening-01.jpg # optionally, include the file path for an image for each item
-#      - blog: bioheritage.html
-#        image: /images/UNADJUSTEDNONRAW_thumb_e1b.jpg
+#        image: /images/image.jpg # optional, add image for each item
   - category: Published research
     items:
       - item: published.html
   - category: Non-peer reviewed publications
       - item: other-published.html
-#        image: /images/koura.jpg
+#        image: /images/image.jpg
