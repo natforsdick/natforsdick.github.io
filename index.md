@@ -41,7 +41,7 @@ cta_button_label: contact Natalie # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-## Ko wai au? Who am I?
+## Ko wai au - Who am I
 
 <div style="text-align: center;">
 <img width="240" src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with various coloured flowers.">
