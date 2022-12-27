@@ -9,4 +9,5 @@ research:
     items:
       - item: published.html
   - category: Non-peer reviewed publications
+    items:
       - item: other-published.html
