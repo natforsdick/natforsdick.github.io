@@ -3,8 +3,8 @@
 #        image: /images/image.jpg # optional, add image for each item
 research:
   - category: Blogs and other popular media
-    blogs:
-      - blog: blogs.html
+    items:
+      - item: blogs.html
   - category: Published research
     items:
       - item: published.html
