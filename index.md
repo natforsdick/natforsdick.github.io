@@ -12,7 +12,7 @@ background_image: /images/Catlins-sunrise.jpg
 # page_url: # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
- favicon: /assets/ico/New_kaki.png
+favicon: /assets/ico/New_kaki.png
 
 # social media
 twitter_username: NatForsdick 
@@ -29,7 +29,7 @@ about_button_label: Natalie's CV # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: research # the heading for your portfolio and title of your YAML file
-portfolio_description: you can find examples of research I've been involved with below
+portfolio_description: You can find examples of research I've been involved with below
 
 # optional CTA section --------------------------------------------------
 
@@ -52,5 +52,5 @@ I am now a Postdoctoral Research Fellow at [Manaaki Whenua -- Landcare Research]
 Along with research, I am interested in building communities, and this has led to my involvement in various societies. I take great pride in representing [Birds New Zealand](https://www.birdsnz.org.nz) as Vice-President, and in my role as Secretary for the [Society for Conservation Biology Oceania region](https://scboceania.org). I also co-lead Manaaki Whenua's Early Career Group, and informally co-chair the Genomics Aotearoa HQG Postdoc Group. In my free time, you can often find me out and about with my trusty binoculars or bird-watching scope.
 
 <div style="text-align: center;">
-<img width="200" src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with various coloured flowers.">
+<img width="240" src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with various coloured flowers.">
 </div>
