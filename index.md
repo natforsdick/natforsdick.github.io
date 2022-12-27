@@ -41,11 +41,11 @@ cta_button_label: contact Natalie # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Ko wai au? Who am I?
+## Ko wai au? Who am I?
 
 Ko Ngāti Pākehā te iwi, ko Rangiora whenua tupu, ko Natalie Forsdick ahau. 
 
-I'm a New Zealander hailing from Rangiora. I completed my PhD at the University of Otago in 2020.
+I'm a New Zealander, originally from Rangiora. I completed my PhD at the University of Otago in 2020.
 
 I am now a Postdoctoral Research Fellow at [Manaaki Whenua -- Landcare Research](https://www.landcareresearch.co.nz/) in Tāmaki Makaurau (Auckland), Aotearoa New Zealand. My research is part of the [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/) High Quality Genomes project. Through this project, I am currently focussed on sequencing and assembling high quality genomes for a range of endemic taxa. The purpose of this research is to understand the evolutionary history and genomic characteristics of endemic species, often through a conservation genomics lens. I have the pleasure of working with smart and kind people across a wide variety of organisations and communities. 
 
