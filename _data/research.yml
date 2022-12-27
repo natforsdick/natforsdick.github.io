@@ -1,6 +1,5 @@
 # this file organizes the items in your portfolio, which are placed in the _includes folder
 # in the root directory
-
 research:
   - category: Blogs and other popular media
     blogs:
