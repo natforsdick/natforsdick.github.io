@@ -12,7 +12,7 @@ background_image: /images/Catlins-sunrise.jpg
 # page_url: # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
-# favicon: /assets/ico/favicon.ico
+ favicon: /assets/ico/New_kaki.png
 
 # social media
 twitter_username: NatForsdick 
