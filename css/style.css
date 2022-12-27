@@ -54,7 +54,9 @@ custom styles adapted from Twenty by HTML5 Up
 	strong, b {
 		font-weight: 400;
 	}
-
+	em, i {
+		font-style: italic;
+	}
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
 	}
@@ -251,6 +253,10 @@ custom styles adapted from Twenty by HTML5 Up
 			text-transform: none !important;
 		}
 
+		.ai:before{
+			font-family: Academicons;
+	    	 }
+
 		.icon.circle {
 			-moz-transition: all 0.2s ease-in-out;
 			-webkit-transition: all 0.2s ease-in-out;
@@ -283,30 +289,12 @@ custom styles adapted from Twenty by HTML5 Up
 					background: #7fb7d2;
 				}
 			
-			.icon.circle.fa-linkedin-square {
-				background: #0077B5;
-				color: white;
-			}
-
-				.icon.circle.fa-linkedin-square:hover {
-					background: #288bbf;
-				}
-
-			.icon.circle.fa-facebook {
-				background: #7490c3;
-				color: white;
-			}
-
-				.icon.circle.fa-facebook:hover {
-					background: #829bc9;
-				}
-
-			.icon.circle.fa-google-plus {
+			.icon.circle.ai-google-scholar {
 				background: #db6b67;
 				color: white;
 			}
 
-				.icon.circle.fa-google-plus:hover {
+				.icon.circle.ai-google-scholar:hover {
 					background: #df7b77;
 				}
 
@@ -325,6 +313,15 @@ custom styles adapted from Twenty by HTML5 Up
 			}
 
 				.icon.circle.fa-dribbble:hover {
+					background: #df93b8;
+				}
+
+			.icon.circle.ai-researchgate {
+				background: #da83ae;
+				color: white;
+			}
+
+				.icon.circle.ai-researchgate:hover {
 					background: #df93b8;
 				}
 
