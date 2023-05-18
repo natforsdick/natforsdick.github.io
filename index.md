@@ -44,7 +44,7 @@ cta_button_label: contact Natalie # the label on the button
 ## Who am I
 
 <p>
-<img width="240" src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with large coloured flowers." style="float:left;height:120px;">
+<img src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with large coloured flowers." style="float:left;width:240px;">
 
 I am a Conservation Genomics researcher at [Manaaki Whenua -- Landcare Research](https://www.landcareresearch.co.nz/) in Tāmaki Makaurau (Auckland), Aotearoa New Zealand. My research is part of the [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/) High Quality Genomes project. Through this project, I am currently working on sequencing and assembling high quality genomes for a range of endemic taxa, including birds, insects, and more. The purpose of this research is to understand the evolutionary history and genomic characteristics of endemic species, often through a conservation genomics lens. 
 </p>
