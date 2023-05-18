@@ -43,13 +43,13 @@ cta_button_label: contact Natalie # the label on the button
 [//]: # (write a bit about yourself here)
 ## Who am I
 
-<div style="text-align: center;">
-<img width="240" src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with large coloured flowers.">
-</div>
+<p>
+<img width="240" src="./images/Nat-BirdsNZ2021-MSzabo.jpeg" alt="A profile photo of Natalie Forsdick taken by Michael Szabo. Natalie has short light brown hair, and wears a dark green dress with large coloured flowers." style="float:left;height:120px;">
+
+I am a Conservation Genomics researcher at [Manaaki Whenua -- Landcare Research](https://www.landcareresearch.co.nz/) in Tāmaki Makaurau (Auckland), Aotearoa New Zealand. My research is part of the [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/) High Quality Genomes project. Through this project, I am currently working on sequencing and assembling high quality genomes for a range of endemic taxa, including birds, insects, and more. The purpose of this research is to understand the evolutionary history and genomic characteristics of endemic species, often through a conservation genomics lens. 
+</p>
 
 <!-- Ko Ngāti Pākehā te iwi, ko Rangiora whenua tupu, ko Natalie Forsdick ahau. -->
 <!-- I completed my PhD at the University of Otago in 2020, investigating the genomic impacts of hybridisation in kakī/black stilts, a critically endangered Aotearoa endemic wading bird. -->
-
-I am a Conservation Genomics researcher at [Manaaki Whenua -- Landcare Research](https://www.landcareresearch.co.nz/) in Tāmaki Makaurau (Auckland), Aotearoa New Zealand. My research is part of the [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/) High Quality Genomes project. Through this project, I am currently working on sequencing and assembling high quality genomes for a range of endemic taxa, including birds, insects, and more. The purpose of this research is to understand the evolutionary history and genomic characteristics of endemic species, often through a conservation genomics lens. 
 
 Along with research, I am interested in building communities, and this has led to my involvement in various societies. I take great pride in representing [Birds New Zealand](https://www.birdsnz.org.nz) as Vice-President, and in my role as Secretary for the [Society for Conservation Biology Oceania region](https://scboceania.org). I also co-lead Manaaki Whenua's Early Career Group, and informally co-chair the Genomics Aotearoa HQG Postdoc Group. I have the pleasure of working with smart and kind people across a wide variety of organisations and communities. In my free time, you can often find me out and about with my trusty binoculars or bird-watching scope.
